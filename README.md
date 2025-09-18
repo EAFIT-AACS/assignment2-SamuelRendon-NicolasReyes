@@ -2,6 +2,10 @@
 
 # ✨ Activity 2 – PDA Formal Languages
 
+## ✨ Samuel Rendon Pabon
+
+## ✨ Nicolas Reyes Cano
+
 This project contains three **Python** implementations related to the topic of **Formal Languages and Pushdown Automata (PDA)**.  
 
 The original file was divided into **three independent programs**, one for each algorithm, in order to run and analyze them separately.  
