@@ -2,7 +2,6 @@ from typing import List, Tuple, Union
 
 
 def generate_grammar_strings(max_n: int) -> List[str]:
-(max_n: int) -> List[str]:
     """Genera cadenas del lenguaje a^n b^n para valores de n de 0 a max_n.
 
     La gramática G produce cadenas formadas por n símbolos 'a'
