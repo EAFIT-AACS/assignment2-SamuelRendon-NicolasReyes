@@ -21,6 +21,7 @@ python3 actividad2_algoritmo2.py
 python3 actividad2_algoritmo3.py
 ```
 🚀 **These 3 lines will run each of the algorithms u want to use**
+
 🚀 **After the program runs, you will see that the strings for each algorithm work and give results**
 
 🚀 **For Windows you can insert the code in VScode and run it from there, you will also see that the strings for each algorithm work and will give results**
