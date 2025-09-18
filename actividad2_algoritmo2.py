@@ -2,7 +2,6 @@ from typing import List, Tuple, Union
 
 
 def pda_accepts(input_string: str) -> bool:
-(input_string: str) -> bool:
     """Determina si una cadena es aceptada por un PDA que reconoce a^n b^n.
 
     Este autómata de pila empuja un símbolo por cada 'a' leída y
