@@ -2,7 +2,6 @@ from typing import List, Tuple, Union
 
 
 def build_derivation_tree(n: int) -> Union[str, List]:
-(n: int) -> Union[str, List]:
     """Construye recursivamente un árbol de derivación izquierda para a^n b^n.
 
     Este árbol se basa en la regla de producción S -> a S b.  Para n > 0,
